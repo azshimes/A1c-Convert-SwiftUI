@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "type": "Biguanides",
+        "medications": [
+            "Glucophage (metformin)"
+        ],
+        "patho": "Has a three-fold effect.  It decreases the amount of glucose (sugar) that the liver makes, thus decreasing the output into the liver.  Next it limits the amount of glucose absorbed in the GI tract.  Finally, it increases the body's sensitivity to insulin, making insulin more effective.",
+        "adverse": "nausea/vomiting and diarrhea"
+    },
+    {
+        "id": 2,
+        "type": "Sulfonylureas",
+        "medications": [
+            "Glucotrol (glipizide)",
+            "Amaryl (glimepiride)",
+            "DiaBeta (glyburide)"
+        ],
+        "patho": "They stimulate the pancreas to release more insulin",
+        "adverse": "low blood glucose (increased risk with kidney disease/failure)"
+    },
+    {
+        "id": 3,
+        "type": "Thiazolidinedtone (glitazones)",
+        "medications": [
+            "Actos (pioglitazone)",
+            "Avandia (rosiglitazone)"
+        ],
+        "patho": "They increase the body's sensitivity to insulin, thus making insulin more effective.",
+        "adverse": "weight gain (should be used with caution if you have heart disease)"
+    }
+]
+
